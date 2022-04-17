@@ -1,0 +1,35 @@
+Student: 1009927 - Ta Huong Long
+	GPA: 0.0210578
+	Telephone: 0950 458 179
+	Email: thlong@okhuman.com
+	DOB: 4/9/1998
+	Address: 22, Phan Van Tri, Long Thanh My Ward, Phu Nhuan District, TP HCM
+
+Student: 1032206 - Trinh Khanh Trung
+	GPA: 2.74361
+	Telephone: 0992 882 607
+	Email: tktrung@okhuman.com
+	DOB: 11/6/1988
+	Address: 26, Luong Dinh Cua, 06 Ward, Binh Thanh District, TP HCM
+
+Student: 1021696 - Truong Ngoc Dan
+	GPA: 8.35322
+	Telephone: 0908 688 390
+	Email: tndan@imgof.com
+	DOB: 6/11/1907
+	Address: 51, Luong Dinh Cua, 04 Ward, Tan Binh District, TP HCM
+
+Student: 1021598 - Chu Hoai Trinh
+	GPA: 1.50731
+	Telephone: 0904 563 382
+	Email: chtrinh@hinduhome.com
+	DOB: 11/4/1907
+	Address: 74, Hoang Hoa Tham, Thu Thiem Ward, Binh Thanh District, TP HCM
+
+Student: 1003487 - Luong Quynh Thuan
+	GPA: 9.74578
+	Telephone: 0947 240 684
+	Email: lqthuan@gmail.com
+	DOB: 1/7/1979
+	Address: 43, Duong So 7, Cau Ong Lanh Ward, Hoc Mon District, TP HCM
+
